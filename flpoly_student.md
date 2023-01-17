@@ -1,27 +1,29 @@
-## Student Name (or name you would preferred to be called)
+## Adrian Myers
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Intro to Data Science
 
-- Course 2
+- Microeconomics
 
-- Course 3
+- Flame
 
-- Course 4
+- Business Finance
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Golf
 
-- Thing 2
+- Data 
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+happening at florida poly
+school ranking 
+explore programs
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
